@@ -9,3 +9,5 @@ If the free unlock system appears, follow the instructions
 JJSploit will automatically attach. Wait for the success notification in game
 
 and enjoy
+
+REMINDER 'YOU NEED TO TURN OFF YOUR DEFENDER '
